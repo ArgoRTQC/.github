@@ -1,4 +1,4 @@
-### Argo DMQC ###
+### Argo RTQC ###
 Welcome to the Argo RTQC GitHub repository!
 <br>
 The scripts in this repository are used to perform real time quality control (RTQC) on Argo float data. In general, these scripts are designed for use by the Argo Data Assembly Centres (DACs).
