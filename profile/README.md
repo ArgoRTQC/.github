@@ -1,6 +1,7 @@
 ### Argo DMQC ###
-Welcome to the Argo DMQC GitHub repository!
-The scripts in this repository are used to perform delayed mode quality control (DMQC) on Argo float data. There are scripts for both SeaBird and RBR CTDs and most of the code is in Matlab. In general, this code is designed for Argo delayed mode quality control experts.
+Welcome to the Argo RTQC GitHub repository!
+<br>
+The scripts in this repository are used to perform real time quality control (RTQC) on Argo float data. In general, these scripts are designed for use by the Argo Data Assembly Centres (DACs).
 
 ***Argo Program Links***
 <br>
@@ -10,7 +11,7 @@ The Argo Data Management Team website is here: http://www.argodatamgt.org/
 
 ***Other Argo GitHub repositories***
 <br>
-The Argo RTQC repository which contains scripts to perform real time quality control: https://github.com/ArgoRTQC
+The Argo DMQC repository which contains scripts to perform delayed mode quality control: https://github.com/ArgoDMQC
 <br>
 The EuroArgo development repository which contains scripts developed as part of EuroArgo: https://github.com/euroargodev
 
